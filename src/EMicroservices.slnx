@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Services/" />
+  <Folder Name="/Services/Catalog/">
+    <Project Path="Services/Catalog/Catalog.API/Catalog.API.csproj" Id="fe157875-0452-46c5-8c24-fdee9452ba3e" />
+  </Folder>
+</Solution>
